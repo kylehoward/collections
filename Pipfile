@@ -6,6 +6,20 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
+jupyter = "*"
+ipykernel = "*"
+requests = "*"
+matplotlib = "*"
+numpy = "*"
+tweepy = "*"
+wordcloud = "*"
+selenium = "*"
+feedparser = "*"
+plotly = "*"
+pytest = "*"
+pytest-cov = "*"
+Pillow = "*"
+PyGithub = "*"
 
 [requires]
 python_version = "3.6"
